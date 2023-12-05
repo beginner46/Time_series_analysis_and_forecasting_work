@@ -9,6 +9,7 @@ Performed time series analysis and forecasting of opening price of Tata Steel
 ## Smoothing time series using moving averages
 
 Performed smoothing out of the irregular roughness to better see patterns, trends, and smooth out the seasonality to better identify the trend. [click](https://github.com/beginner46/Time_series_analysis_and_forecasting_work/blob/main/Smoothing_time_series_moving_averages-main.zip)
+
 Moving averages are a simple and effective way to smooth time series data. They work by calculating the average of a fixed number of data points over a rolling window. This helps to remove high-frequency noise and highlight the underlying trend of the data.
 
 There are two main reasons why moving averages are best for smoothing time series:
