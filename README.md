@@ -16,4 +16,4 @@ Trimming time series data is important for noise reduction, improved analysis, d
 
 ## Anamoly Detection
 
-The Holt-Winters model is frequently used for anomaly detection due to its effectiveness in handling time series data with trend and seasonality. Its ability to capture underlying patterns and identify deviations from those patterns makes it well-suited for detecting anomalies. [click](https://github.com/beginner46/Time_series_analysis_and_forecasting_work/blob/main/anomaly__Holt_Winter.ipynb)
+The Holt-Winters model is frequently used for anomaly detection due to its effectiveness in handling time series data with trend and seasonality. Its ability to capture underlying patterns and identify deviations from those patterns makes it well-suited for detecting anomalies. [click](https://github.com/beginner46/Time_series_analysis_and_forecasting_work/blob/main/anomaly_using_holt_winter.zip)
